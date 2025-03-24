@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=3.2
+Name=SQL Power Architect
+Exec=java -jar /opt/architect-1.0.9/architect.jar
+Icon=/opt/architect-1.0.9/architect_logo_200.png
+Type=Application
+Comment=SQL Power Architect
+Path=/opt/architect-1.0.9
+Terminal=false
+StartupNotify=true
+Categories=Development;Education;
